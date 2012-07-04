@@ -1,0 +1,9 @@
+* {
+  border: none;
+  margin: none;
+  outline: none;
+}
+html {
+  font-family: sans-serif;
+  font-size: 12px;
+}
